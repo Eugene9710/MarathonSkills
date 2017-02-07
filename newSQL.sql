@@ -1,0 +1,1 @@
+SELECT * FROM project.user where Email like 'leila.currie@keef.com';
